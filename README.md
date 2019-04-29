@@ -9,7 +9,7 @@ Deveríamos escolher um tema do documento que nos foi enviado, escolhi o módulo
 "Este módulo irá somente criar “Modelos” de avatares que serão futuramente escolhidos pelos construtores dos jogos para serem personagens usados na estória. 
 Você deve colocar atributos disponíveis a serem preenchidos depois pelos construtores"
 
-________________________________________________________________________________________________________________________________________________________________________
+<hr>
 
 Project used as an exam of the discipline technologies for Internet II - September / 2018
 
@@ -20,7 +20,8 @@ We should choose a theme from the document that was sent to us, I chose the Balr
 "This module will only create" Models "of avatars that will be chosen in the future by game builders to be characters used in the story.
 You should put available attributes to be filled in afterwards by the builders"
 
-________________________________________________________________________________________________________________________________________________________________________
+<hr>
+
 <p align="center">
 <img src="https://i.imgur.com/na5TrYc.png" width="350">
 </p>
