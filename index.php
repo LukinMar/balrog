@@ -56,3 +56,8 @@
         <div align="center"><img src="imagens/balrog.png" alt="BALROG - A DEMON OF THE ANCIENT WORLD" style="width:330px;height:300px;" ></div>
     </body>
 </html>
+
+
+
+<?php
+?>
